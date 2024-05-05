@@ -32,3 +32,5 @@ function findFactorial(num) {
           */
   }
 }
+
+console.log(findFactorial(5)); //120
